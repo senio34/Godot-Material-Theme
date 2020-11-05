@@ -8,5 +8,5 @@ Place the `.tet` files in your Godot text editor theme directory:
 
 ## Recommanded Interface Color
 
-Base Color : 373c53
-Accent Color : 89ddff
+- Base Color : 373c53
+- Accent Color : 89ddff
